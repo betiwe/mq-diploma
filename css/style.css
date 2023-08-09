@@ -37,7 +37,7 @@ body {
 
 .page-header {
   padding: 30px 0 125px;
-  background-image: url(/img/banner-bg.jpg);
+  background-image: url(../img/banner-bg.jpg);
   background-color: #1c2141;
   background-repeat: no-repeat;
   background-position: center center;
@@ -280,19 +280,19 @@ body {
   margin-right: 0;
 }
 .trends-item-wrp-garden {
-  background: url(/img/trend1.jpg) no-repeat center center;
+  background: url(../img/trend1.jpg) no-repeat center center;
   background-size: cover;
 }
 .trends-item-wrp-cheese {
-  background: url(/img/trend2.jpg) no-repeat center center;
+  background: url(../img/trend2.jpg) no-repeat center center;
   background-size: cover;
 }
 .trends-item-wrp-trip {
-  background: url(/img/trend3.jpg) no-repeat center center;
+  background: url(../img/trend3.jpg) no-repeat center center;
   background-size: cover;
 }
 .trends-item-wrp-lemon {
-  background: url(/img/trend4.jpg) no-repeat center center;
+  background: url(../img/trend4.jpg) no-repeat center center;
   background-size: cover;
 }
 .trends-item {
@@ -697,17 +697,17 @@ body {
   outline-offset: 5px;
 }
 .social-icons-link-dribbble {
-  background: url(/svg/001-dribbble.svg) no-repeat center;
+  background: url(../svg/001-dribbble.svg) no-repeat center;
   width: 25px;
   height: 25px;
   background-size: 100%;
 }
 .social-icons-link-pinterest {
-  background: url(/svg/001-pinterest.svg) no-repeat center;
+  background: url(../svg/001-pinterest.svg) no-repeat center;
   background-size: 100%;
 }
 .social-icons-link-tumblr {
-  background: url(/svg/003-tumblr.svg) no-repeat center;
+  background: url(../svg/003-tumblr.svg) no-repeat center;
   background-size: 100%;
 }
 .copyright-container {
@@ -781,7 +781,7 @@ body {
 @media screen and (min-width: 641px) and (max-width: 1199px) {
   .page-header {
     padding: 40px 0 125px;
-    background-image: url(/img/banner-bg-tablet.jpg);
+    background-image: url(../img/banner-bg-tablet.jpg);
   }
   .container {
     width: 91%;
@@ -885,7 +885,7 @@ body {
   .page-header {
     min-height: 640px;
     padding: 30px 0 220px;
-    background-image: url(/img/banner-mobile.jpg);
+    background-image: url(../img/banner-mobile.jpg);
   }
   .container {
     width: 91%;
